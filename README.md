@@ -9,7 +9,7 @@
 ## Datasets
 The training images are located in `datasets/images`, the test prompts are located in `datasets/prompts`, and the processed images for evaluating image-alignment can be found in `datasets/data_eval`.
 
-## Key module
+## Key modules
 The crucial constraints for optimization are implemented in the function `p_losses` within `src/model.py`.
 
 ## Results
