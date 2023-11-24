@@ -19,6 +19,10 @@ The crucial constraints for optimization are implemented in the function `p_loss
 </p>
 </div>
 
+## Getting Started
+conda env create -f environment.yml
+conda activate ldm
+
 ## Fine-tuning
 ```
 ## run training
