@@ -13,3 +13,13 @@ The training images are located in `datasets/images`, the test prompts are locat
 The crucial constraints for optimization are implemented in the function `p_losses` within `src/model.py`.
 
 ## Results
+
+## Fine-tuning
+```
+## run training
+bash run.sh
+
+## sample and evaluate
+bash eval.sh
+```
+The `run.sh` and `eval.sh` scripts include several hyperparameters such as `classes` in the input image,`data_path`, `save_path`, training `caption`, random `seed`, and more. Please modify these executable files to suit your specific requirements.
