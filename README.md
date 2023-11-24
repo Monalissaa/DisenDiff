@@ -35,3 +35,7 @@ bash run.sh
 bash eval.sh
 ```
 The `run.sh` and `eval.sh` scripts include several hyperparameters such as `classes` in the input image,`data_path`, `save_path`, training `caption`, random `seed`, and more. Please modify these executable files to suit your specific requirements.
+
+## License and Acknowledgement
+The code and models in this repo are for research purposes only. Our code is bulit upon [custom-diffusion](https://github.com/adobe-research/custom-diffusion).
+
