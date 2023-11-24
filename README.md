@@ -2,7 +2,7 @@
 ## Attention Calibration for Disentangled Text-to-Image Personalization
 <div>
 <p align="center">
-<img src='assets/first_figure.jpg' align="center" width=800>
+<img src='assets/first_figure.jpg' align="center" width=900>
 </p>
 </div>
 
@@ -13,6 +13,11 @@ The training images are located in `datasets/images`, the test prompts are locat
 The crucial constraints for optimization are implemented in the function `p_losses` within `src/model.py`.
 
 ## Results
+<div>
+<p align="center">
+<img src='assets/results_github.jpg' align="center" width=900>
+</p>
+</div>
 
 ## Fine-tuning
 ```
