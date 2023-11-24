@@ -1,0 +1,10 @@
+Photo of a <new1> cat and <new2> dog
+Photo of a <new2> dog and <new1> cat
+photo of <new1> big cat and <new2> dog
+photo of <new1> cat and <new2> small dog
+Photo of a <new1> cat and <new2> dog in times square
+Photo of a <new2> dog and <new1> cat at a beach with a view of the seashore
+<new1> cat and <new2> dog wearing sunglasses
+Georgia O'Keeffe style <new2> dog and <new1> cat painting
+Photo of a <new1> cat with bow tie and <new2> dog
+photo of a <new2> dog and <new1> cat laying together

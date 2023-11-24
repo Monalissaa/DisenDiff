@@ -1,0 +1,10 @@
+Photo of a <new1> horse and <new2> dog
+Photo of a <new2> dog and <new1> horse
+Photo of a <new1> horse and <new2> dog in times square
+Photo of a <new2> dog and <new1> horse at a beach with a view of the seashore
+Georgia O'Keeffe style <new2> dog and <new1> horse painting
+a <new1> horse and a black <new2> dog
+a black <new1> horse and a <new2> dog
+Photo of a <new1> horse and <new2> dog in snow ice
+a <new1> horse and a sleeping <new2> dog
+<new1> horse and <new2> dog in desert

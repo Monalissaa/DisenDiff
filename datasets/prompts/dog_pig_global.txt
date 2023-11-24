@@ -1,0 +1,10 @@
+Photo of <new1> dog and <new2> pig
+Photo of <new2> pig and <new1> dog
+Photo of a <new1> dog and <new2> pig in times square
+Photo of a <new1> dog and <new2> pig at a beach with a view of the seashore
+a watercolor painting of <new1> dog and <new2> pig in a forest
+Painting of <new1> dog and <new2> pig at a beach by artist claude monet
+Georgia O'Keeffe style <new1> dog and <new2> pig painting
+a <new2> pig wearing top hat and <new1> dog
+a <new1> dog wearing sunglasses and a <new2> pig
+two <new1> dog and a <new2> pig

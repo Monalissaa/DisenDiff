@@ -1,0 +1,1 @@
+<new1> cat and <new2> dog
