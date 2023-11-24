@@ -23,6 +23,7 @@ The crucial constraints for optimization are implemented in the function `p_loss
 ```
 conda env create -f environment.yml
 conda activate ldm
+git clone https://github.com/CompVis/stable-diffusion.git
 ```
 
 ## Fine-tuning
