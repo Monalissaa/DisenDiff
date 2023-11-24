@@ -1,5 +1,5 @@
 classes=cat_dog  # the input image
-pretrained_model_path=/home/mona/codes/Unified-codebase-for-proccessing-the-single-image/hub/checkpoints/v1-5-pruned.ckpt
+pretrained_model_path=checkpoints/v1-5-pruned.ckpt
 datapath=datasets/images/$classes
 caption="<new1> cat and <new2> dog"  # the training input prompt
 modifier_token="<new1>+<new2>" # new tokens
@@ -8,10 +8,9 @@ fine_yaml=full.yaml
 seed=1 
 suffix="full_${seed}"
 name=$classes_${suffix}
-save_path=/mnt/e/codes/DisenDiff/$classes
+save_path=DisenDiff/$classes
 class_prompt="a cat and a dog"
 
-# bash scripts/finetune_real.sh "${class_prompt}" $datapath real_reg/samples_${classes} $name $fine_yaml $pretrained_model_path $save_path "$caption" "$modifier_token" $seed
 
 python src/retrieve.py --class_prompt "$class_prompt" --class_data_dir real_reg/samples_${classes}
 

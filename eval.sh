@@ -1,10 +1,10 @@
 experiment_name='2023-11-23T11-18-37_full_1' # the trained experiment dir name
 classes=cat_dog  # the input image
-pretrained_model_path=/home/mona/codes/Unified-codebase-for-proccessing-the-single-image/hub/checkpoints/v1-5-pruned.ckpt
+pretrained_model_path=checkpoints/v1-5-pruned.ckpt
 datapath=datasets/images/$classes
 newtoken=2 # the number of new tokens
 seed=1 
-save_path=/mnt/e/codes/DisenDiff/$classes
+save_path=DisenDiff/$classes
 
 
 # save the changed params
