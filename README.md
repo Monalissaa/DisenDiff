@@ -61,9 +61,9 @@ The `run.sh` and `eval.sh` scripts include several hyperparameters such as `clas
 Our code is built upon the excellent codebase of [Custom-Diffusion](https://github.com/adobe-research/custom-diffusion), we thank a lot for their work.
 We also kindly refer interesting researchers to these wonderful relted works:
 
-[DreamBooth](https://dreambooth.github.io/)
-[Break-A-Scene](https://omriavrahami.com/break-a-scene/)
-[Textual Inversion](https://textual-inversion.github.io/)
+* [DreamBooth](https://dreambooth.github.io/)
+* [Break-A-Scene](https://omriavrahami.com/break-a-scene/)
+* [Textual Inversion](https://textual-inversion.github.io/)
 
 We also thank the anonymous reviewers for their valuable suggestions during the rebuttal, which greatly help us improve the paper.
 
